@@ -22,7 +22,7 @@ This repository contains **clean, well-commented Java solutions** for each probl
 
 | Solved  | In Progress | Remaining |
 |:-------:|:-----------:|:---------:|
-| 0 / 150 |  2  /  150  | 148 / 150 |
+| 2 / 150 |  2  /  150  | 146 / 150 |
 
 
 ## 🎯 Goals
@@ -35,10 +35,10 @@ This repository contains **clean, well-commented Java solutions** for each probl
 
 | #   | Problem Name                                  | Status |
 |-----|-----------------------------------------------|--------|
-| 1   | Contains Duplicate                            | ⏳     |
-| 2   | Valid Anagram                                 | ⏳     |
-| 3   | Two Sum                                       | ❌     |
-| 4   | Group Anagrams                                | ❌     |
+| 1   | Contains Duplicate                            | ✅     |
+| 2   | Valid Anagram                                 | ✅     |
+| 3   | Two Sum                                       | ⏳     |
+| 4   | Group Anagrams                                | ⏳     |
 | 5   | Top K Frequent Elements                       | ❌     |
 | 6   | Product of Array Except Self                  | ❌     |
 | 7   | Valid Sudoku                                  | ❌     |
