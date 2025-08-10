@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Asish-Kumar-Morial/NeetCode_150/main/banner.png" alt="NeetCode 150 Java Solutions" width="600"/>
-</p>
-
 # NeetCode 150 - Java Solutions 🚀
 
 A collection of **Java implementations** for the **NeetCode 150** Data Structures and Algorithms problems.
