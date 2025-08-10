@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/NeetCode_150/main/banner.png" alt="NeetCode 150 Java Solutions" width="600"/>
+  <img src="https://raw.githubusercontent.com/Asish-Kumar-Morial/NeetCode_150/main/banner.png" alt="NeetCode 150 Java Solutions" width="600"/>
 </p>
 
 # NeetCode 150 - Java Solutions 🚀
