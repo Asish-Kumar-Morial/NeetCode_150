@@ -1,3 +1,6 @@
+//Time Complexity: O(n)
+//Space Complexity: O(n)
+
 import java.util.Arrays;
 import java.util.Scanner;
 
