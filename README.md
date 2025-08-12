@@ -22,7 +22,7 @@ This repository contains **clean, well-commented Java solutions** for each probl
 
 | Solved  | In Progress | Remaining |
 |:-------:|:-----------:|:---------:|
-| 5 / 150 |  3  /  150  | 142 / 150 |
+| 7 / 150 |  3  /  150  | 140 / 150 |
 
 
 ## 🎯 Goals
@@ -40,11 +40,11 @@ This repository contains **clean, well-commented Java solutions** for each probl
 | 3   | Two Sum                                       | ✅     |
 | 4   | Group Anagrams                                | ✅     |
 | 5   | Top K Frequent Elements                       | ✅     |
-| 6   | Product of Array Except Self                  | ⏳     |
-| 7   | Valid Sudoku                                  | ⏳     |
+| 6   | Product of Array Except Self                  | ✅     |
+| 7   | Valid Sudoku                                  | ✅     |
 | 8   | Encode and Decode Strings                     | ⏳     |
-| 9   | Longest Consecutive Sequence                  | ❌     |
-| 10  | Valid Palindrome                              | ❌     |
+| 9   | Longest Consecutive Sequence                  | ⏳     |
+| 10  | Valid Palindrome                              | ⏳     |
 | 11  | Two Sum II - Input Array Is Sorted            | ❌     |
 | 12  | 3Sum                                          | ❌     |
 | 13  | Container With Most Water                     | ❌     |
